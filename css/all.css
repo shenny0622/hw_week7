@@ -61,6 +61,7 @@ img{
 
 body{
     font-family: Microsoft JhengHei, sans-serif, serif, monospace;
+    overflow-x:hidden;
 }
 
 .container{
